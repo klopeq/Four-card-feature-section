@@ -23,15 +23,13 @@ body {
     font-size: 15px;
     background-color: var(--very-light-gray);
     overflow: hidden;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 header {
     margin: 20px;
     text-align: center;
     margin-bottom: 6rem;
+    margin-top: 4rem;
 }
 
 header h1 {
@@ -122,6 +120,7 @@ header p span {
     }
     header {
         margin-bottom: 1rem;
+        margin-top: 1rem;
     }
 
     header h1 {

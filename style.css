@@ -23,6 +23,9 @@ body {
     font-size: 15px;
     background-color: var(--very-light-gray);
     overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 header {
